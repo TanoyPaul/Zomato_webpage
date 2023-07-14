@@ -25,7 +25,7 @@ body {
 
 .button_primary {
     background-image: linear-gradient(
-        to right , #ff0000,#f70f70,#ff0000
+        to right , #ff0000,#f70f70,#dc1414
     );
     color:#f9fafc;
     border:none;
@@ -35,7 +35,7 @@ body {
 }
 
 .button_primary:hover {
-    border:2px solid palevioletred;
+    border:2px solid rgb(224, 6, 79);
     cursor: pointer;
 }
 
